@@ -9,6 +9,8 @@ AI-powered call center solution with Azure and OpenAI GPT.
 <!-- GitHub Codespaces badge -->
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/call-center-ai?quickstart=1)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/microsoft/call-center-ai)
+
 ## Overview
 
 Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
